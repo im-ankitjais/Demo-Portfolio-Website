@@ -1,12 +1,12 @@
-# About this project:
+# About this portfolio website project:
 This is a very simple portfolio website which can be used by beginners who have just started learning about web development. The best thing
 about this project is, you can find the explanation to every line of code as a comment line.
 
 
 ## Purpose of this project:
 - To get a Hands-on experience in HTML and CSS
-- Anyone can use this project as a reference to design their own portfolio website
-- Can be a good starting point for beginneres who have just started exploring Open Source 
+- Anyone can use this project as a reference to design their own website
+- Can be a good starting point who have just started exploring Open Source 
 - Will be used in Hactoberfest events
 
 ## How you can contribute to this repository:
